@@ -11,8 +11,8 @@
 
 #include <Eigen/Core>
 
-#include "opencv2/opencv.hpp"
-#include "opencv/cxeigen.hpp"
+#include <opencv2/opencv.hpp>
+#include <opencv2/core/eigen.hpp>
 
 #include "../camera_models/include/EquidistantCamera.h"
 #include "../camera_models/include/PinholeCamera.h"
